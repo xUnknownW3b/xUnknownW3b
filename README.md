@@ -7,7 +7,7 @@ You can also find me on my discord server Minecraft [NitroKitmap](https://discor
 
 <details>
  <summary><strong>What I'm learning/working on these days:</strong></summary>
-   - Soon...
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xUnknownW3b&layout=donut)](https://github.com/xUnknownW3b/github-readme-stats)
 </details>
 
 
