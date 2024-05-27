@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > My name is Chris, I'm 17 and I've been an apprentice developer for 1 years now, I started with Minecraft and Discord Tools, then I tried new things, I'm available on discord under the nickname uhqc or on Twitter with xUnknownW3b.
-You can also find me on my discord server Minecraft [NitroKitmap](https://discord.gg/nitroktimap) or in [DataSeeker](https://www.google.com/) support.
+You can also find me on my discord server Minecraft [NitroKitmap](https://discord.gg/nitroktimap) or in [DataSeeker](https://discord.gg/F2ehr8kfGb) support.
 
 <details>
  <summary><strong>What I'm learning/working on these days:</strong></summary>
